@@ -4,8 +4,8 @@
 
 #***how to operate***
 
-1. move forward(in the direction of arrow) :***up(↑) key***     ##this will move by 10 pts
-2. move back(opp to direction of arrow): ***down(↓) key***    ##this will move by 10 pts
+1. move forward(in the direction of arrow) :***up(↑) key***        # this will move by 10 pts
+2. move back(opp to direction of arrow): ***down(↓) key***         # this will move by 10 pts
 3. turn right by 90 degree: ***right(→) key***  
 4. turn left by 90 deg. : ***left(←) key***
 5. turn right by 10 deg : ***"r" key***
