@@ -5,7 +5,7 @@ t.colormode(255)
 
 tut = t.Turtle()    # created a turtle object
 screen = t.Screen()   # created a screen object
-
+screen.title("Sketch Pad")
 
 def clockwise_circle():
     tut.speed('fastest')
